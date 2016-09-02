@@ -44,7 +44,7 @@ public class logTest {
         log.debug("Getting overall description");
         String note = driver.findElement(By.name("desc")).getAttribute("value");
      
-        System.out.println("SIUnit = " + SIUnit);
+        System.out.println("SIUnitt = " + SIUnit);
         System.out.println("USUnit = " + USUnit);
         System.out.println("UKUnit = " + UKUnit);
         System.out.println("note = " + note); 
