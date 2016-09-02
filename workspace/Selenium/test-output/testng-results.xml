@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18308" started-at="2016-09-02T14:58:57Z" finished-at="2016-09-02T14:59:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18308" started-at="2016-09-02T14:58:57Z" finished-at="2016-09-02T14:59:16Z">
+      <class name="comTestcases.logTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:comTestcases.logTest@651fd0]" name="f" duration-ms="18292" started-at="2016-09-02T20:28:57Z" finished-at="2016-09-02T20:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- comTestcases.logTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
